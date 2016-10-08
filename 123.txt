@@ -1,2 +1,6 @@
 123
+<<<<<<< HEAD
 adasdas
+=======
+assdasd
+>>>>>>> da77650fdef126ee3e917e4260d71162c9c2a333
